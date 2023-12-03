@@ -1,4 +1,3 @@
-[![MasterHead](https://i.imgur.com/qNOQ8g4_d.jpg?maxwidth=920&shape=thumb&fidelity=high)](https://www.linkedin.com/in/alin-dan-282b4a233/)
 <h1 align="center">Hi 👋, I'm @lin</h1>
 <h3 align="center">Third year student at UPB-ACS</h3>
 
