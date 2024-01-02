@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-finding-who-asked-ydvd6ocpf5xkm4xn.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alindan-contact&label=Profile%20views&color=0e75b6&style=flat" alt="alindan-contact" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alindan-contact&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
